@@ -5,7 +5,7 @@
 ## Dataset
 
 >This dataset expressses the various attributes of 113,937 customers of a Prosper bank from 2005 to 2014.
-The columns display different attributes that can be used to describe customers that collected loans from Prosper bank over the period. The brief description of the columns of the dataset can be found in [Prosper Variable definition.](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0) With these datasets, key decisions can be made with regards to loan types, volumes, customer types, period of frequent loan defaults, e.t.c.
+The columns display different attributes that can be used to describe customers that collected loans from Prosper bank over the period. The brief description of the columns of the dataset can be found in [Prosper Variable definition.](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0) With these datasets, key decisions can be made with regards to loan types, volumes, customer types, period of frequent loan defaults, e.t.c. The raw data can be downloaded from [here](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv.)
 
 
 ## Summary of Findings
