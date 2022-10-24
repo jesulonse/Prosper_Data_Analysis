@@ -18,5 +18,7 @@ The columns display different attributes that can be used to describe customers 
 
 >For the presentation, I focused on the delinquent loans and performing loans and factors that made customers to default on loans and also perform on the loans respectively.
 >Making use of univariate, bivariate and multivariate plots, I was able to make the following insights:
->Prosper ensures that they don't give laons to customers whose debt to income ratio exceed 1 but has exemptions of 10.01 for 272 customers with zero delinquent loans.
->Loans amount decreased around the year 2008, probably due to the financial recession of that year  but picked up from the subsequent year forward.
+
+>Prosper ensures that they don't give laons to customers whose debt to income ratio exceed 1 but has exemptions of debt to income ratio of 10.01 for 272 customers with zero delinquent loans.
+
+>Loans amount disbured, on the average by Prosper bank, decreased around the year 2008, probably due to the financial recession of that year  but picked up from the subsequent year forward.
