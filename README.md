@@ -1,4 +1,4 @@
-# (Prosper Data Exploration)
+# Prosper Data Analysis
 ## by Adewale Isaac
 
 
